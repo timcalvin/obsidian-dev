@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "63e0a5b4adafbc3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Road to React/14. Callback Handlers in JSX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,17 +129,17 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "63e0a5b4adafbc3e",
+  "active": "ad58b1a3cf4511f7",
   "lastOpenFiles": [
     "React/Road to React/15. Lifting State in React.md",
     "React/Road to React/14. Callback Handlers in JSX.md"
