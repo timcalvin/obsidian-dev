@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "81c0b12d86d9a1d8",
+        "id": "e9a1182db6837ec1",
         "type": "tabs",
         "children": [
           {
-            "id": "54877505716486b6",
+            "id": "f386c58a690d2198",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Road to React/14. Callback Handlers in JSX.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Road to React/14. Callback Handlers in JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Road to React/14. Callback Handlers in JSX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/Road to React/14. Callback Handlers in JSX.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -136,12 +128,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "ad58b1a3cf4511f7",
+  "active": "f386c58a690d2198",
   "lastOpenFiles": [
-    "React/Road to React/15. Lifting State in React.md",
-    "React/Road to React/14. Callback Handlers in JSX.md"
+    "React/Road to React/14. Callback Handlers in JSX.md",
+    "React/Road to React/15. Lifting State in React.md"
   ]
 }
