@@ -36,8 +36,18 @@ struct ContentView: View {
 
         tracks = searchResult.results
     }
+
+	func startSearch() {
+		Task {
+			try await performSearch()
+		}
+	}
 }
 ```
+
+## macOS
+
+Network requests aren't allowed out of the box in macOS. To fix this, select your app under the **TARGETS** list, then select the* **Signing & Capabilities** tab and check the **Outgoing Connections (Client)** checkbox.
 
 ## JSON Basics
 
